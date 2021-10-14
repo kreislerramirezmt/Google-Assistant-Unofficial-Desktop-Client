@@ -69,6 +69,14 @@ const supportedLanguages = {
     settingsUpdatedText: "Settings Updated!",
   },
   "en-US": {
+    config: {
+      settingsText: "Settings",
+      authText: "AUTHENTICATION",
+      keyFilePathText: "Key File Path",
+      tooltipCredentialsOAuth: "Your OAuth 2 Credentials.",
+      inputPlaceholderKeyFilePath: "Path to 'Key File'",
+      btnBrowse: "Browse",
+    },
     langName: "English (United States)",
     welcomeMessage: "Hi! How can I help?",
     inputPlaceholder: "Ask me anything...",
